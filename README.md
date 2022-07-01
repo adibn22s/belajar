@@ -1,2 +1,2 @@
-# belajar
-ini coba iseng iseng
+# practice
+just trying implement my lil projcet
